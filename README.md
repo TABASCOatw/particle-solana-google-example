@@ -9,7 +9,7 @@
 
 ⚡️ Example for integration of a "Sign in with Google" Solana wallet creation/login button via. [Particle Auth](https://docs.particle.network/developers/auth-service). In this specific example, various buttons and data retrieval tasks have been added to showcase functionality within [Particle Auth](https://docs.particle.network/developers/auth-service).
 
-Built using **`Particle Auth`**, & **TypeScript**.
+Built using **Particle Auth**, & **TypeScript**.
 
 ## 🔑 Particle Auth
 Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc.
